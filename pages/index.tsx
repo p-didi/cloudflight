@@ -87,9 +87,9 @@ const CanvasEtc = () => {
 				className={`canvas ${canvasStyles.canvasBox} ${canvasStyles.bgSky} ${canvasStyles.moveable}`}
 
 				//mode = "concurrent" // React mode: legacy | blocking | concurrent
-				dpr={[1, 2]}
+				//dpr={[1, 2]}
 				gl={{ // see WebGLRenderer.js
-					antialias: true,
+					antialias: false,
 				}}
 				frameloop="always"
 				linear={true} // true == disables automatic sRGB encoding and gamma correction
