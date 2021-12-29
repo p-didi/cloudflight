@@ -143,8 +143,8 @@ const CameraRig = ({ offset, camProps = {} }) => {
 
 	useEffect(() => {
 		if(textRef?.current && typeToShow === 'clock' && (clockTriggerValue || !clockTriggerValue)) {
-			//textRef.current.text = timeNow(showSeconds)
-			textRef.current.text = '10:42'
+			textRef.current.text = timeNow(showSeconds)
+			//textRef.current.text = '10:42'
 			textRef.current.sync()
 		}
 	}, [textRef, typeToShow, showSeconds, clockTriggerValue])
