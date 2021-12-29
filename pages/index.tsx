@@ -229,8 +229,8 @@ const CloudsPage = () => {
 
 	}, [
 		isReady,
-		query.type, query.sec, query.size, query.ls, query.color, query.text,
-		setTypeToShow, setShowSeconds, setFontSize, setLetterSpacing, setFontColor, setOptionalText
+		query.type, query.sec, query.size, query.ls, query.color, query.ff, query.lh, query.text,
+		setTypeToShow, setShowSeconds, setFontSize, setLetterSpacing, setFontColor, setFontFamily, setLineHeight, setOptionalText
 	])
 
 	return (
