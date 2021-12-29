@@ -9,7 +9,7 @@ interactive background
 <table>
   <tr>
     <td align="center" valignX="top" style="padding: 6px 6px">
-      <a href="http://localhost:3000/assets/img/screenshots/screenshot-1.jpg">
+      <a href="https://cloudflight.vercel.app/?embed=1&type=text&size=24&color=ff9b06&text=LOREM%20IPSUM">
 		<img src="https://github.com/grmpf/cloudflight/raw/master/public/assets/img/screenshots/screenshot-1.jpg" style="display: block" />
 		<!--
 		<img src="http://localhost:3000/assets/img/screenshots/screenshot-1.jpg" style="display: block" />
@@ -17,7 +17,7 @@ interactive background
       </a>
     </td>
     <td align="center" valignX="top" style="padding: 6px 6px">
-      <a href="http://localhost:3000/assets/img/screenshots/screenshot-2.jpg">
+      <a href="https://cloudflight.vercel.app/?embed=1&type=clock&size=40&ls=8&color=ff9b06">
 		<img src="https://github.com/grmpf/cloudflight/raw/master/public/assets/img/screenshots/screenshot-2.jpg" style="display: block" />
 		<!--
 		<img src="http://localhost:3000/assets/img/screenshots/screenshot-2.jpg" style="display: block" />
@@ -27,7 +27,7 @@ interactive background
   </tr>
   <tr>
     <td align="center" valignX="top" style="padding: 6px 6px">
-      <a href="http://localhost:3000/assets/img/screenshots/screenshot-3.jpg">
+      <a href="https://cloudflight.vercel.app/?embed=1&type=text&size=22&ls=-14&color=ff9b06&lh=0.9&text=D%20%20O%20%20N%20%20%27%20%20%20T%20%20%20%20%20%20IIIIIIIIIIIIIIIIIIIIIII~T%20%20H%20%20E%20%20%20%20%20%20I%20%20N%20%20T%20%20E%20%20R%20%20N%20%20E%20%20T">
 		<img src="https://github.com/grmpf/cloudflight/raw/master/public/assets/img/screenshots/screenshot-3.jpg" style="display: block" />
 		<!--
 		<img src="http://localhost:3000/assets/img/screenshots/screenshot-3.jpg" style="display: block" />
@@ -35,7 +35,7 @@ interactive background
       </a>
     </td>
     <td align="center" valignX="top" style="padding: 6px 6px">
-	  <a href="http://localhost:3000/assets/img/screenshots/screenshot-4.jpg">
+	  <a href="https://cloudflight.vercel.app/?embed=1&type=text&size=35&lh=0.8&color=ff9b06&text=DON'T~PANIC">
 		<img src="https://github.com/grmpf/cloudflight/raw/master/public/assets/img/screenshots/screenshot-4.jpg" style="display: block" />
         <!--
 		<img src="http://localhost:3000/assets/img/screenshots/screenshot-4.jpg" style="display: block" />
